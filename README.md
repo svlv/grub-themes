@@ -1,5 +1,9 @@
 # GRUB themes for Linux
 
-## Star Trek
+## Installation
 
-![startrek-grub-themes-preview](https://github.com/user-attachments/assets/156be277-ef8f-4659-aa22-78bf2d2df85e)
+## Preview
+
+### Star Trek
+
+<img width="3536" height="1996" alt="Star Trek Preview" src="https://github.com/user-attachments/assets/7e417af0-fa63-44d8-90ee-670c726be0a4" />
