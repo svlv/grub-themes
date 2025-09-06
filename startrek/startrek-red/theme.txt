@@ -1,0 +1,19 @@
+title-text: ""
+desktop-image: "background.png"
+terminal-font: "Unifont Regular 16"
+terminal-left: "288"
+terminal-width: "1259"
+
++ boot_menu {
+    left = 304
+    top = 248
+    width = 1100
+    height = 150
+    item_font = "Electrolize Regular 32"
+    item_color = "#750F20"
+    selected_item_color = "#FFFFFF"
+    selected_item_pixmap_style = "selected_item_*.png"
+    icon_width = 44
+    icon_height = 44
+    item_icon_space = 70
+}
