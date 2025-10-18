@@ -1,0 +1,29 @@
+title-text: ""
+desktop-image: "background.png"
+terminal-font: "Unifont Regular 16"
+terminal-left: "288"
+terminal-width: "1259"
+
++ boot_menu {
+    left = 302
+    top = 158
+    width = 1100
+    height = 300
+    item_font = "DotGothic16 Regular 32"
+    item_color = "#750F20"
+    selected_item_color = "#FFFFFF"
+    selected_item_pixmap_style = "selected_item_*.png"
+    icon_width = 44
+    icon_height = 44
+    item_icon_space = 70
+}
+
++ label {
+    id= __timeout__
+    left = 340
+    top = 970
+    width = 65
+    height = 65
+    font = "Roboto Condensed Regular 55"
+    color = "#750F20"
+}
