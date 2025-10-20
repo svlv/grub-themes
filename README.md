@@ -16,5 +16,5 @@
 </details>
 <details>
 <summary>Fallout</summary>
-  <img width="1440" height="998" alt="Desktop - 6" src="https://github.com/user-attachments/assets/c4463936-b04e-4f47-b656-e5d079ccfdaa" />
+  <img width="1440" height="998" alt="Fallout Preview" src="https://github.com/user-attachments/assets/c4463936-b04e-4f47-b656-e5d079ccfdaa" />
 </details>

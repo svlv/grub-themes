@@ -19,7 +19,7 @@ terminal-width: "1259"
 }
 
 + label {
-    id= __timeout__
+    id = __timeout__
     left = 340
     top = 970
     width = 65
