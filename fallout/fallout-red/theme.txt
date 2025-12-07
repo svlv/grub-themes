@@ -20,10 +20,21 @@ terminal-width: "1259"
 
 + label {
     id = __timeout__
+    text = "%d SEC"
     left = 340
     top = 970
-    width = 65
+    width = 160
     height = 65
     font = "Roboto Condensed Regular 55"
     color = "#750F20"
+}
+
++ progress_bar {
+    id = __timeout__
+    left = 788
+    top = 997
+    width = 578
+    height = 10
+    highlight_style = "progress_hl_*.png"
+    fg_color = "#750F20"
 }
