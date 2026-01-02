@@ -17,7 +17,7 @@ terminal-width: "1259"
 + boot_menu {
     left = 71
     top = 140
-    width = 570
+    width = 700
     height = 270
     item_spacing = 10
     item_height = 60
