@@ -1,0 +1,42 @@
+title-text: ""
+desktop-image: "background.png"
+terminal-font: "Unifont Regular 16"
+terminal-left: "288"
+terminal-width: "1259"
+
++ label {
+    text = "Select"
+    left = 81
+    top = 73
+    width = 360
+    height = 44
+    font = "JetBrains Mono Regular 32"
+    color = "#03A1D7"
+}
+
++ boot_menu {
+    left = 71
+    top = 140
+    width = 700
+    height = 270
+    item_spacing = 12
+    item_height = 80
+    item_font = "JetBrains Mono Regular 24"
+    item_color = "#FFFFFF"
+    item_pixmap_style = "item_*.png"
+    selected_item_font = "JetBrains Mono Bold 24"
+    selected_item_color = "#FFFFFF"
+    selected_item_pixmap_style = "selected_item_*.png"
+    icon_width = 30
+}
+
++ label {
+    id = "__timeout__"
+    text = "%d SECS"
+    left = 81
+    top = 970
+    width = 160
+    height = 65
+    font = "JetBrains Mono Regular 16"
+    color = "#03A1D7"
+}
