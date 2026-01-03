@@ -18,3 +18,7 @@
 <summary>Fallout</summary>
   <img width="1440" height="998" alt="Fallout Preview" src="https://github.com/user-attachments/assets/c4463936-b04e-4f47-b656-e5d079ccfdaa" />
 </details>
+<details>
+<summary>Terminator</summary>
+  <img width="1805" height="1154" alt="Terminator Preview" src="https://github.com/user-attachments/assets/6d976073-b009-4c2a-8a81-d28988b91c62" />
+</details>
