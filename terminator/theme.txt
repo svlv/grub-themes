@@ -19,11 +19,12 @@ terminal-width: "1259"
     top = 140
     width = 700
     height = 270
-    item_spacing = 10
-    item_height = 60
+    item_spacing = 12
+    item_height = 80
     item_font = "JetBrains Mono Regular 24"
     item_color = "#FFFFFF"
     item_pixmap_style = "item_*.png"
+    selected_item_font = "JetBrains Mono Bold 24"
     selected_item_color = "#FFFFFF"
     selected_item_pixmap_style = "selected_item_*.png"
     icon_width = 30
