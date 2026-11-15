@@ -8,6 +8,9 @@
 
 - Run `sudo update-grub`
 
+##### Windows icon on startrek theme
+- You may rename startrek/startrek*/icons/windows11.png to .../windows.png, if you want the windows icon to show windows 11 instead of 10  
+
 ## Previews
 
 <details>
