@@ -1,0 +1,36 @@
+title-text: ""
+desktop-image: "background.png"
+terminal-font: "Unifont Regular 16"
+terminal-left: "288"
+terminal-width: "1259"
+
++ boot_menu {
+    left = 101
+    top = 120
+    width = 672
+    height = 243
+    item_spacing = 15
+    item_padding = 0
+    item_height = 49
+    item_font = "Electrolize Regular 32"
+    item_color = "#FFFFFF"
+    item_icon_space = 58
+    menu_pixmap_style = "menu_*.png"
+    selected_item_color = "#2C4765"
+    selected_item_pixmap_style = "selected_item_*.png"
+    icon_width = 44
+    icon_height = 44
+    scrollbar_left_pad = 0
+}
+
++ progress_bar {
+    id = __timeout__
+    left = 69
+    top = 961
+    width = 1781
+    height = 74
+    highlight_style = "progress_hl_*.png"
+    text = "Choose your operating system"
+    text_color = "#FFFFFF"
+    font = "Electrolize Regular 36"
+}
